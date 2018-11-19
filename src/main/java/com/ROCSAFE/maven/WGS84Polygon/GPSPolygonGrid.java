@@ -6,8 +6,6 @@ import java.util.List;
 import com.ROCSAFE.maven.gpsutilities.WGS84Coordinate;
 import com.ROCSAFE.maven.gpsutilities.WGS84CoordinateUtils;
 
-
-
 /**
  * 
  * @author David Smyth
