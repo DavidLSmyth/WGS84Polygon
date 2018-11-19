@@ -1,7 +1,5 @@
 package com.ROCSAFE.maven.WGS84Polygon;
 
-import java.math.BigDecimal;
-import java.math.MathContext;
 import java.util.ArrayList;
 import java.util.List;
 
