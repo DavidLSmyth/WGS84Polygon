@@ -22,5 +22,6 @@ public class GPSQuadrilateral extends GPSPolygon {
 	private boolean verifyQuadrilateral() {
 		return boundary.size() == 4;
 	}
+	
 
 }
