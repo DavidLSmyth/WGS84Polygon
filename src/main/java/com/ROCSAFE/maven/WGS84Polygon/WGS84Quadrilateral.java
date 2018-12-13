@@ -37,5 +37,6 @@ public class WGS84Quadrilateral extends QuadrilateralBase<WGS84Coordinate> {
 		// TODO Auto-generated method stub
 		return this;
 	}
+	
 
 }

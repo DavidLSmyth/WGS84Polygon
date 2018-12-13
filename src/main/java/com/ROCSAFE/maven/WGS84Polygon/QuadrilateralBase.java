@@ -5,8 +5,6 @@ import java.util.LinkedHashSet;
 import java.util.List;
 
 import com.ROCSAFE.maven.gpsutilities.CoordinateBase;
-import com.ROCSAFE.maven.gpsutilities.CoordinateInterface;
-import com.ROCSAFE.maven.gpsutilities.WGS84Coordinate;
 
 public abstract class QuadrilateralBase<T extends CoordinateBase> extends PolygonBase<T> {
 	

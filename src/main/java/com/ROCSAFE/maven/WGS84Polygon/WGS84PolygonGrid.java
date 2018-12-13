@@ -3,8 +3,6 @@
  */
 package com.ROCSAFE.maven.WGS84Polygon;
 
-import static org.junit.jupiter.api.Assertions.assertIterableEquals;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;

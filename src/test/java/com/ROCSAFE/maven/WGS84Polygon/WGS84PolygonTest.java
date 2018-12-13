@@ -8,7 +8,6 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.List;
@@ -18,7 +17,6 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import com.ROCSAFE.maven.gpsutilities.CoordinateBase;
 import com.ROCSAFE.maven.gpsutilities.CoordinateBase;
 import com.ROCSAFE.maven.gpsutilities.WGS84Coordinate;
 

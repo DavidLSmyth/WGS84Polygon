@@ -6,11 +6,6 @@ import java.util.Comparator;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.List;
-import java.util.Optional;
-import java.util.Set;
-import java.util.SortedSet;
-import java.util.stream.Stream;
-
 import com.ROCSAFE.maven.gpsutilities.CoordinateBase;
 import com.ROCSAFE.maven.gpsutilities.WGS84Coordinate;
 

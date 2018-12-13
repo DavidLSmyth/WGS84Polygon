@@ -1,13 +1,7 @@
 package com.ROCSAFE.maven.WGS84Polygon;
 
-import java.util.ArrayList;
-import java.util.LinkedHashSet;
 import java.util.List;
-import java.util.stream.Collectors;
-
 import com.ROCSAFE.maven.gpsutilities.CoordinateBase;
-import com.ROCSAFE.maven.gpsutilities.WGS84Coordinate;
-import com.ROCSAFE.maven.gpsutilities.WGS84CoordinateUtils;
 
 /**
  * 
