@@ -209,9 +209,9 @@ public class GPSPolygon {
 	public String toString() {
 		String returnString = "";
 		for(WGS84Coordinate coord: getBoundary()) {
-			returnString += coord.toString();
+			returnString += coord.toString() + "\n";
 		}
-		return returnString;
+		return returnString.substring(0, returnString.length() - 1);
 	}
 	
 	public boolean equals(Object other) {

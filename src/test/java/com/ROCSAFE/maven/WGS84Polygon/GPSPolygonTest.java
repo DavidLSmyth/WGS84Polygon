@@ -196,7 +196,11 @@ class GPSPolygonTest {
 	 */
 	@Test
 	void testToString() {
-		fail("Not yet implemented");
+		assertEquals(p1.toString() + "\n" +
+				p2.toString() + "\n" + 
+				p3.toString() + "\n" +
+				p4.toString(),square.toString());
+		//fail("Not yet implemented");
 	}
 
 	/**
