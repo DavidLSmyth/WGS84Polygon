@@ -86,7 +86,7 @@ class WGS84PolygonTest {
 	 */
 	@Test
 	//Ignore for now
-	@Ignore
+	
 	void testGetBoundingQuadrilateral() throws Exception {
 		for(WGS84Coordinate c: square.getBoundingQuadrilateral().getBoundary()) {
 			System.out.println(c);
