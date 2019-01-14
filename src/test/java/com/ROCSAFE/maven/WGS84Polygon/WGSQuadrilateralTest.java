@@ -19,7 +19,7 @@ import com.ROCSAFE.maven.gpsutilities.WGS84Coordinate;
  * @author 13383861
  *
  */
-class GPSQuadrilateralTest {
+class WGSQuadrilateralTest {
 	
 	WGS84Coordinate p1;
 	WGS84Coordinate p2;

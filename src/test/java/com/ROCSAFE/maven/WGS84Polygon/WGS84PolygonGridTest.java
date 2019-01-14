@@ -19,7 +19,7 @@ import com.ROCSAFE.maven.gpsutilities.WGS84Coordinate;
  * @author 13383861
  *
  */
-class GPSPolygonGridTest {
+class WGS84PolygonGridTest {
 	
 	WGS84Coordinate p1;
 	WGS84Coordinate p2;
